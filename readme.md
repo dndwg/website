@@ -1,6 +1,6 @@
 # DNDWG Website
 
-This repo includes all HTML and CSS for the website of the Digital News Delivery Working Group.
+This repo includes all HTML and CSS for the website of the Digital News Delivery Working Group. Link is https://indizr.com/dndwg
 
 We are dedicated to finding and creating ways to distribute news that are web-based, publisher-hosted, and open source.
 
